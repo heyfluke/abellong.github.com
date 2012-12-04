@@ -1,5 +1,7 @@
 _site/*
 _theme_packages/*
+_posts/*~
+_posts/post
 
 Thumbs.db
 .DS_Store
